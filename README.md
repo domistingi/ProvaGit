@@ -1,2 +1,2 @@
 # ProvaGit
-provaGit
+Repository di test Git
